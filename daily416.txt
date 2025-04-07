@@ -59,4 +59,8 @@ class Solution:
 
         return (helper(nums,0,target,0))
 
+    
+//////////not that dp created using nested array work but not dictionary!!!!!!!!!
+
+
         
